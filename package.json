@@ -1,0 +1,14 @@
+{
+  "name": "css-extract-branding-information",
+  "version": "1.0.0",
+  "description": "Script to parse a CSS file and extract all branding information. Result will be two css files: branding.css containing all brand specific css rules and structure.css with all the rest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css": "^2.2.4"
+  }
+}
